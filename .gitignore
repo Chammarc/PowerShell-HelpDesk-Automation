@@ -1,0 +1,4 @@
+# Output created when the scripts run - may contain temporary passwords
+Logs/
+Reports/
+*.log
